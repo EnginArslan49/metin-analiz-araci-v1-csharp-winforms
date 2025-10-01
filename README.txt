@@ -1,0 +1,1 @@
+Uygulama yalnızca "Metin Analiz Aracı\karakterSayar\bin\Debug\net8.0-windows" dosyası içerisindeki karakterSayar.exe dosyası ile de çalıştırılabilir
