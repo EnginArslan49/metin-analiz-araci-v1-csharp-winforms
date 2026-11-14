@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("karakterSayar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3d16a239e733291710a5da7a47815348a5752e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("karakterSayar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("karakterSayar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

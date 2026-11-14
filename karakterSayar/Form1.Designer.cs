@@ -59,7 +59,7 @@
             lblReferansMetin.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 162);
             lblReferansMetin.Location = new Point(432, 13);
             lblReferansMetin.Name = "lblReferansMetin";
-            lblReferansMetin.Size = new Size(163, 19);
+            lblReferansMetin.Size = new Size(131, 17);
             lblReferansMetin.TabIndex = 0;
             lblReferansMetin.Text = "REFERANS METİN:";
             // 
@@ -89,7 +89,7 @@
             lblGirilenMetninUzunlugu.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 162);
             lblGirilenMetninUzunlugu.Location = new Point(432, 283);
             lblGirilenMetninUzunlugu.Name = "lblGirilenMetninUzunlugu";
-            lblGirilenMetninUzunlugu.Size = new Size(130, 19);
+            lblGirilenMetninUzunlugu.Size = new Size(110, 17);
             lblGirilenMetninUzunlugu.TabIndex = 2;
             lblGirilenMetninUzunlugu.Text = "Karakter Sayısı:";
             // 
@@ -140,12 +140,12 @@
             Menuler.ImageScalingSize = new Size(20, 20);
             Menuler.Items.AddRange(new ToolStripItem[] { menuYeniIcerikSay });
             Menuler.Name = "Menuler";
-            Menuler.Size = new Size(172, 28);
+            Menuler.Size = new Size(149, 26);
             // 
             // menuYeniIcerikSay
             // 
             menuYeniIcerikSay.Name = "menuYeniIcerikSay";
-            menuYeniIcerikSay.Size = new Size(171, 24);
+            menuYeniIcerikSay.Size = new Size(148, 22);
             menuYeniIcerikSay.Text = "Yeni İçerik Say";
             menuYeniIcerikSay.Click += menuYeniIcerikSay_Click;
             // 
@@ -166,7 +166,7 @@
             lblEnKisaKelime.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 162);
             lblEnKisaKelime.Location = new Point(670, 380);
             lblEnKisaKelime.Name = "lblEnKisaKelime";
-            lblEnKisaKelime.Size = new Size(130, 19);
+            lblEnKisaKelime.Size = new Size(108, 17);
             lblEnKisaKelime.TabIndex = 7;
             lblEnKisaKelime.Text = "En Kısa Kelime:";
             // 
@@ -187,7 +187,7 @@
             lblEnUzunKelime.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 162);
             lblEnUzunKelime.Location = new Point(432, 375);
             lblEnUzunKelime.Name = "lblEnUzunKelime";
-            lblEnUzunKelime.Size = new Size(133, 19);
+            lblEnUzunKelime.Size = new Size(112, 17);
             lblEnUzunKelime.TabIndex = 9;
             lblEnUzunKelime.Text = "En Uzun Kelime:";
             // 
@@ -208,7 +208,7 @@
             lblBilgilendirme.ForeColor = Color.Red;
             lblBilgilendirme.Location = new Point(432, 261);
             lblBilgilendirme.Name = "lblBilgilendirme";
-            lblBilgilendirme.Size = new Size(0, 17);
+            lblBilgilendirme.Size = new Size(0, 15);
             lblBilgilendirme.TabIndex = 12;
             // 
             // txtGirilenMetninCumleUzunlugu
@@ -228,13 +228,13 @@
             lblGirilenMetninCumleUzunlugu.Font = new Font("Times New Roman", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 162);
             lblGirilenMetninCumleUzunlugu.Location = new Point(670, 283);
             lblGirilenMetninCumleUzunlugu.Name = "lblGirilenMetninCumleUzunlugu";
-            lblGirilenMetninCumleUzunlugu.Size = new Size(112, 19);
+            lblGirilenMetninCumleUzunlugu.Size = new Size(94, 17);
             lblGirilenMetninCumleUzunlugu.TabIndex = 13;
             lblGirilenMetninCumleUzunlugu.Text = "Cümle Sayısı:";
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(8F, 17F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImageLayout = ImageLayout.Zoom;
             ClientSize = new Size(882, 483);

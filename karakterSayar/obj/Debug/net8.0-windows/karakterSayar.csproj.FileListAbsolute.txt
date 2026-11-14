@@ -32,3 +32,21 @@ C:\Users\Engin ARSLAN\Desktop\Metin Analiz Aracı\karakterSayar\obj\Debug\net8.0
 C:\Users\Engin ARSLAN\Desktop\Metin Analiz Aracı\karakterSayar\obj\Debug\net8.0-windows\karakterSayar.pdb
 C:\Users\Engin ARSLAN\Desktop\Metin Analiz Aracı\karakterSayar\obj\Debug\net8.0-windows\karakterSayar.genruntimeconfig.cache
 C:\Users\Engin ARSLAN\Desktop\Metin Analiz Aracı\karakterSayar\obj\Debug\net8.0-windows\ref\karakterSayar.dll
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\bin\Debug\net8.0-windows\karakterSayar.exe
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\bin\Debug\net8.0-windows\karakterSayar.deps.json
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\bin\Debug\net8.0-windows\karakterSayar.runtimeconfig.json
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\bin\Debug\net8.0-windows\karakterSayar.dll
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\bin\Debug\net8.0-windows\karakterSayar.pdb
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\obj\Debug\net8.0-windows\karakterSayar.Form1.resources
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\obj\Debug\net8.0-windows\karakterSayar.Properties.Resources.resources
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\obj\Debug\net8.0-windows\karakterSayar.csproj.GenerateResource.cache
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\obj\Debug\net8.0-windows\karakterSayar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\obj\Debug\net8.0-windows\karakterSayar.AssemblyInfoInputs.cache
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\obj\Debug\net8.0-windows\karakterSayar.AssemblyInfo.cs
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\obj\Debug\net8.0-windows\karakterSayar.csproj.CoreCompileInputs.cache
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\obj\Debug\net8.0-windows\karakterSayar.sourcelink.json
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\obj\Debug\net8.0-windows\karakterSayar.dll
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\obj\Debug\net8.0-windows\refint\karakterSayar.dll
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\obj\Debug\net8.0-windows\karakterSayar.pdb
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\obj\Debug\net8.0-windows\karakterSayar.genruntimeconfig.cache
+C:\Users\Engin ARSLAN\Source\Repos\metin-analiz-araci-v1-csharp-winforms\karakterSayar\obj\Debug\net8.0-windows\ref\karakterSayar.dll
